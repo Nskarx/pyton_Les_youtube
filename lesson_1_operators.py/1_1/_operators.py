@@ -30,3 +30,4 @@ print('hello  ' + " World ") # пробелы  hello   World
 # print(eval(input(': ')))   вывести в строку чтобы ввести цифры в терминале
 
 print(eval(input(': ')))
+
