@@ -32,3 +32,5 @@ WIDTH = 1500 #   переменная вверхнем регистре Когд
 #  как правильно называть переменые
 user_name = ' vasya' # snake_case змеинный метод
 userAge = 15 # camelCase  Верблюжий метод
+MessAge = 10
+print(MessAge)
